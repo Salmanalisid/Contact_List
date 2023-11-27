@@ -13,8 +13,8 @@ const ContactCard = (props) =>{
             <i className="ui labeled trash icon " 
                     style={{color:"red",
                     display:"flex", 
-                    marginLeft:"530px",
-                     marginTop:"7px",
+                    marginLeft:"96%",
+                     marginTop:"-19px",
                     // marginBottom:"px",
                     fontSize:"20px"
                 }}
